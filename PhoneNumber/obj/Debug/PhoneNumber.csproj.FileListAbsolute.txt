@@ -1,0 +1,8 @@
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.AssemblyReference.cache
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+C:\Users\damis.loza\source\repos\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb
